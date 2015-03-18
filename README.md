@@ -4,3 +4,5 @@ A word guessing game implemented as a mini project in Python using data structur
 Works in python version 3.3
 
 Uses Tkinter GUI.
+
+Execute using python phase 2 final.py
