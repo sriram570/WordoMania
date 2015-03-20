@@ -5,4 +5,4 @@ Works in python version 3.3
 
 Uses Tkinter GUI.
 
-Execute using python phase 2 final.py
+Execute the "phase 2 final.py" python file to start the game.
